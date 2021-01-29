@@ -145,6 +145,8 @@ _Note: You must rebuild the servers any time you make changes to the C code._
    - **IP address:** The IP address found in step 5.8
  5. Run `RetroTK.exe` to play
 
+(Clients are unable to connect due to patching requests from the server, suggest noting how to disable this server-side)
+
 ***
 
 ## 10) Create a GM
